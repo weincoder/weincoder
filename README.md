@@ -9,6 +9,7 @@ I am a human being who is very passionate about learning from everything and eve
 - 🔭 I’m currently working on creating Open Sources projects for learning Angular and Flutter 
 - 💬 Ask me about Flutter, Angular, and Micro Front-ends
 - 📫 How to reach me: danielherresan@gmail.com
+- 📹 YouTube Channel: https://www.youtube.com/c/weincode
 - ⚡ Fun fact: 😆
 - 🌍 My website: https://danielherrerasanchez.tech/
 
